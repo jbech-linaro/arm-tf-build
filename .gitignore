@@ -1,0 +1,6 @@
+arm-trusted-firmware
+edk2
+Foundation_Platformpkg
+linux
+toolchain
+*.swp
