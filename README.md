@@ -10,6 +10,8 @@ A few helper scripts to be able to test ARM Trusted Firmware standalone quick an
 # Build
 ```
 ./build-edk2.sh
+./build-edk2.sh -c
+./build-linux.sh -c
 ./build-linux.sh -f
 ./build-linux.sh
 ./build-arm-tf.sh
